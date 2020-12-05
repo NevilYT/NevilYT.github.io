@@ -38,6 +38,7 @@ img{
 }
 .author{
 	height: 70px;
+	width: 100%;
 	display: flex;
 	justify-content: space-between;
 	background-color: gray;
