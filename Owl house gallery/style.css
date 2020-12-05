@@ -37,9 +37,7 @@ img{
 	filter: brightness(40%);
 }
 .author{
-	margin-left: 143px;
 	height: 70px;
-	width: 76%;
 	display: flex;
 	justify-content: space-between;
 	background-color: gray;
